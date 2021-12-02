@@ -1,4 +1,0 @@
-eployment:
-  tasks:
-    - export DEPLOYPATH=/home/scwebxyz/public_html/enviaemail.ibitweb.com.br
-    - /bin/cp * $DEPLOYPATH
